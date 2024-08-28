@@ -1,0 +1,20 @@
+.register{
+    display: grid !important;
+    place-items: center !important;
+    height: 100vh !important;
+}
+.user_searchpart{
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center;
+    margin-bottom: 30px !important;
+}
+.user_title{
+    font-size: 24px !important;
+}
+.user_page{
+    text-align: center !important;
+    cursor: pointer !important;
+    margin-top: 12px !important;
+    color: rgba(0, 0, 0, 0.7) !important;
+}
